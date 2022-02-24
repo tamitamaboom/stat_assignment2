@@ -12,3 +12,5 @@
 - Pandas
 - Seaborn
 - Scikit-Learn
+
+An assignment in Statistics for Computer Engineer Applications, a project-based subject, assigns us to do Clustering and Regression samples data.
